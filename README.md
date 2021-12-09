@@ -5,7 +5,7 @@
 
 Very young kids like to play simple board games. Among them, we can find the "Junior" variant of the classical Monopoly&copy; series. This variant is simplified a lot. In particular the player has no choice in most of its actions, basically reducing the game to a purely random game.
 
-The younger player starts. After player a multiple games with my wife and daughter, I had the impression that my daughter was somehow favored as she won most of the games (while my wife only won a few games and I always lost).
+The younger player starts. After playing multiple games with my wife and daughter, I had the impression that my daughter was somehow favored as she won most of the games (while my wife only won a few games and I always lost).
 
 By curiosity, or maybe because I'm a bad looser, I wanted to study the win probabilities of this game as function of the player start order. My initial impression was that the last player only had a low chance to win, since the properties would likely be owner by other players already and instead of acquiring new properties, he would provide funds to the other players such that they can buy even more properties (disclaimer: it does not seem to be that dramatic, see below).
 
